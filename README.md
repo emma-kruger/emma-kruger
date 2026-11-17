@@ -1,6 +1,6 @@
-  <h2 align="center">Busy traversing the human genome</h3>
+  <h2 align="center">Currently traversing the human genome</h3>
 <p align="center">
-  Interested in investigating the interconnected mathematical and <br> biological systems underlying life as we know it and making plots <br><I>(mainly making plots)</i>
+  Investigating the representation of human reference genomes <br> (making a lot of graphs).
 </p>
 </div>
 
